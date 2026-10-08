@@ -1,0 +1,4 @@
+# Browser automation; Selenium Manager in 4.11+ can resolve a compatible EdgeDriver.
+selenium>=4.11,<5
+# CSV parsing with named columns and consistent handling of optional fields.
+pandas

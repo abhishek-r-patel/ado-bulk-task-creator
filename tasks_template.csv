@@ -1,0 +1,4 @@
+Title,Description,RemainingWork,AssignedTo,Tags
+Example - analysis,"Review requirements, dependencies, and acceptance criteria.",2,,Analysis;Planning
+Example - implementation,Implement the agreed changes.,4,,Development
+Example - testing,Verify acceptance criteria and record results.,2,,Testing

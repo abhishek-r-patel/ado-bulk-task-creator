@@ -1,0 +1,33 @@
+Title,Description,RemainingWork,AssignedTo,Tags
+"Reltio Training Tenant Request (TC, Admin, Arch)","Complete the Reltio Training Tenant Request (TC, Admin, Arch) learning activity. Duration: 5m.",0.08,,ReltioTraining;ReltioTC;ReltioAdmin;ReltioArch
+"Reltio Platform Data Flow (TC, Arch)","Complete the Reltio Platform Data Flow (TC, Arch) learning activity. Duration: 1h 53m.",1.88,,ReltioTraining;ReltioTC;ReltioArch
+Technical Consultant Foundations (TC),Complete the Technical Consultant Foundations (TC) learning activity. Duration: 20m.,0.33,,ReltioTraining;ReltioTC
+"Data Modeling - Overview (TC, Arch)","Complete the Data Modeling - Overview (TC, Arch) learning activity. Duration: 30m.",0.50,,ReltioTraining;ReltioTC;ReltioArch
+"Data Integration - Overview (TC, Arch)","Complete the Data Integration - Overview (TC, Arch) learning activity. Duration: 25m.",0.42,,ReltioTraining;ReltioTC;ReltioArch
+"Reltio APIs - Get Started (TC, Arch)","Complete the Reltio APIs - Get Started (TC, Arch) learning activity. Duration: 30m.",0.50,,ReltioTraining;ReltioTC;ReltioArch
+Tenant Management - Operation (Admin),Complete the Tenant Management - Operation (Admin) learning activity. Duration: 25m.,0.42,,ReltioTraining;ReltioAdmin
+"Data Loading - Configuration (TC, Admin)","Complete the Data Loading - Configuration (TC, Admin) learning activity. Duration: 1h 03m.",1.05,,ReltioTraining;ReltioTC;ReltioAdmin
+"Reltio Hub UI - Operation (Admin, TC)","Complete the Reltio Hub UI - Operation (Admin, TC) learning activity. Duration: 50m.",0.83,,ReltioTraining;ReltioAdmin;ReltioTC
+"Reltio APIs - CRUD (TC, Arch)","Complete the Reltio APIs - CRUD (TC, Arch) learning activity. Duration: 1h 45m.",1.75,,ReltioTraining;ReltioTC;ReltioArch
+"Data Modeling - Configuration (TC, Arch)","Complete the Data Modeling - Configuration (TC, Arch) learning activity. Duration: 2h 00m.",2.00,,ReltioTraining;ReltioTC;ReltioArch
+"Data Validation Function - Configuration (TC, Arch)","Complete the Data Validation Function - Configuration (TC, Arch) learning activity. Duration: 17m.",0.28,,ReltioTraining;ReltioTC;ReltioArch
+"Reference Data Management - Overview (TC, Arch)","Complete the Reference Data Management - Overview (TC, Arch) learning activity. Duration: 15m.",0.25,,ReltioTraining;ReltioTC;ReltioArch
+"Reference Data Management - Configuration (TC, Arch)","Complete the Reference Data Management - Configuration (TC, Arch) learning activity. Duration: 20m.",0.33,,ReltioTraining;ReltioTC;ReltioArch
+"Reltio APIs - Data Model Configuration (TC, Arch)","Complete the Reltio APIs - Data Model Configuration (TC, Arch) learning activity. Duration: 2h 25m.",2.42,,ReltioTraining;ReltioTC;ReltioArch
+"Data Cleansing - Overview (TC, Arch)","Complete the Data Cleansing - Overview (TC, Arch) learning activity. Duration: 18m.",0.30,,ReltioTraining;ReltioTC;ReltioArch
+"Data Unification - Overview (TC, Arch)","Complete the Data Unification - Overview (TC, Arch) learning activity. Duration: 23m.",0.38,,ReltioTraining;ReltioTC;ReltioArch
+"Data Unification - Operation (TC, Arch)","Complete the Data Unification - Operation (TC, Arch) learning activity. Duration: 27m.",0.45,,ReltioTraining;ReltioTC;ReltioArch
+"Match Rules - Evaluation (TC, Arch)","Complete the Match Rules - Evaluation (TC, Arch) learning activity. Duration: 2h 15m.",2.25,,ReltioTraining;ReltioTC;ReltioArch
+"Survivorship Rules - Configuration (TC, Arch)","Complete the Survivorship Rules - Configuration (TC, Arch) learning activity. Duration: 2h 10m.",2.17,,ReltioTraining;ReltioTC;ReltioArch
+"Data Export - Operation (TC, Admin)","Complete the Data Export - Operation (TC, Admin) learning activity. Duration: 27m.",0.45,,ReltioTraining;ReltioTC;ReltioAdmin
+"The Reltio Hub UI - Configuration (Admin, TC)","Complete The Reltio Hub UI - Configuration (Admin, TC) learning activity. Duration: 18m.",0.30,,ReltioTraining;ReltioAdmin;ReltioTC
+"Reltio Integration Hub - Overview (TC, Arch)","Complete the Reltio Integration Hub - Overview (TC, Arch) learning activity. Duration: 13m.",0.22,,ReltioTraining;ReltioTC;ReltioArch
+"Reltio Integration Hub - Configuration (TC, Arch)","Complete the Reltio Integration Hub - Configuration (TC, Arch) learning activity. Duration: 3h 25m.",3.42,,ReltioTraining;ReltioTC;ReltioArch
+"Reltio Workflows - Overview (Admin, TC, Arch)","Complete the Reltio Workflows - Overview (Admin, TC, Arch) learning activity. Duration: 30m.",0.50,,ReltioTraining;ReltioAdmin;ReltioTC;ReltioArch
+Reltio Workflows - Operation (Admin),Complete the Reltio Workflows - Operation (Admin) learning activity. Duration: 43m.,0.72,,ReltioTraining;ReltioAdmin
+"Reltio Workflows - Configuration (Admin, TC)","Complete the Reltio Workflows - Configuration (Admin, TC) learning activity. Duration: 40m.",0.67,,ReltioTraining;ReltioAdmin;ReltioTC
+"Reltio Integration Hub - Implement Data Flows (TC, Arch)","Complete the Reltio Integration Hub - Implement Data Flows (TC, Arch) learning activity. Duration: 5h 10m.",5.17,,ReltioTraining;ReltioTC;ReltioArch
+"Data Tenant Subscription Service - Overview (TC, Admin, Arch)","Complete the Data Tenant Subscription Service - Overview (TC, Admin, Arch) learning activity. Duration: 15m.",0.25,,ReltioTraining;ReltioTC;ReltioAdmin;ReltioArch
+"Security - Overview (Admin, TC, Arch)","Complete the Security - Overview (Admin, TC, Arch) learning activity. Duration: 13m.",0.22,,ReltioTraining;ReltioAdmin;ReltioTC;ReltioArch
+User Management - Operation (Admin),Complete the User Management - Operation (Admin) learning activity. Duration: 35m.,0.58,,ReltioTraining;ReltioAdmin
+Technical Consultant Intermediate Certification (TC),Complete the Technical Consultant Intermediate Certification (TC) learning activity. Duration: 4h 00m.,4.00,,ReltioTraining;ReltioTC;ReltioExam
