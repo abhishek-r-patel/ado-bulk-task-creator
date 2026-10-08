@@ -81,7 +81,6 @@ ado-bulk-task-creator/
 |-- tasks_template.csv           Editable example task template
 `-- temp/
     |-- SeleniumEdgeProfile/     Current automation browser profile
-    |-- EdgeAutomation/          Legacy profile, no longer used
     |-- logs/                    One shared log per run
     `-- state/                   Successful-task ledger
 ```
@@ -98,7 +97,6 @@ ado-bulk-task-creator/
 | [tasks_1341029.csv](tasks_1341029.csv) | 6 introductory Reltio training tasks for PBI 1341029. Role/category tags use the `Reltio` prefix, including `ReltioBasics`, `ReltioTC`, `ReltioArch`, `ReltioTDM`, and `ReltioExam`. The five-column CSV has blank `AssignedTo` values for PBI assignment fallback; tags are sent only with `-IncludeTags`. |
 | [tasks_template.csv](tasks_template.csv) | Sample rows to replace with your actual tasks. It is not selected automatically; pass `-Csv tasks_template.csv`. |
 | `temp/SeleniumEdgeProfile/` | Edge cookies, saved sign-in, settings, and caches. Deleted after browser shutdown by default; use `-KeepEdgeProfile` to retain it. Never share this folder. |
-| `temp/EdgeAutomation/` | Leftover from the earlier remote-debugging approach. Current scripts do not use it. Remove it only after closing any browser session using it. |
 | `temp/logs/` | One timestamped, source-labelled log per run containing launcher diagnostics and Python events. Old logs can be removed when no longer needed. |
 | `temp/state/created_tasks.csv` | Records confirmed task creation, scoped to the parent PBI URL. Keep it for rerun duplicate protection. |
 
